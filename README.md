@@ -10,7 +10,7 @@ explore a social feed featuring music reviews and recommendations. The goal is t
 community where users can discover new music, exchange opinions, and connect with others who share 
 their musical interests.
 
-## Sprint Schedule & Goals
+## Agile Planning
 
 | Dates | Title | Goal / Focus |
 | :--- | :--- | :--- |
